@@ -1,4 +1,4 @@
-# ActionRe-Dual-space-action-recognition
+# Dual-space-action-recognition
 
 # Prerequisites
 
